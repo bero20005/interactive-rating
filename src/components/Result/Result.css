@@ -1,0 +1,29 @@
+.result-container{
+    background: #1e242e;
+    padding: 40px;
+    border-radius: 40px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+
+
+
+.text-center{
+    text-align: center;
+}
+
+.answer{
+    color:#FC7614;
+    border-radius: 100%;
+    font-size: 22px;
+}
+
+.description{
+    color: #969FAD;
+    font-size: 13px;
+}
+
+.title{
+    font-size: 35px;
+}
